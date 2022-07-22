@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ethan
+- 👀 I’m interested in python automation projects and machine learning (NLP or Forcasting)
+- 🌱 I’m currently learning front end development with React.js
+- 💞️ I’m looking to collaborate on open source automation projects
+- 📫 Reach me on LinkedIn https://www.linkedin.com/in/ethan-j-carter/
